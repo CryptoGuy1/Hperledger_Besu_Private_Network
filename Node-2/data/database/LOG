@@ -3885,3 +3885,5 @@ rocksdb.async.prefetch.abort.micros P50 : 0.000000 P95 : 0.000000 P99 : 0.000000
 2023/07/17-13:58:38.906363 12989984768 [/db_impl/db_impl.cc:971] Storing 173 stats with timestamp 1689623918 to in-memory stats history
 2023/07/17-13:58:38.906660 12989984768 [/db_impl/db_impl.cc:984] [Pre-GC] In-memory stats history size: 23994 bytes, slice count: 2
 2023/07/17-13:58:38.906667 12989984768 [/db_impl/db_impl.cc:993] [Post-GC] In-memory stats history size: 23994 bytes, slice count: 2
+2023/07/17-14:05:37.274764 13015445504 [/db_impl/db_impl.cc:492] Shutdown: canceling all background work
+2023/07/17-14:05:37.284982 13015445504 [/db_impl/db_impl.cc:697] Shutdown complete
